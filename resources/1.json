@@ -1,0 +1,16 @@
+{
+    "name": "Card 1",
+    "description": "Genesis card",
+    "image_utl": "https://raw.githubusercontent.com/tungtvo/nft-demo/main/resources/1.png",
+    "attributes": [
+        {
+            "trait_type": "class",
+            "value": "genesis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1624955102
+        }
+    ]
+}
